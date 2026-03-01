@@ -1,7 +1,7 @@
 # Skills Test 3rd Quarter
 from pyscript import document
 
-
+# Players from each team
 lists = {
 	"Heartslabyul": ["Rosehearts, Riddle (Leader)", "Chua, Reese Blesilda W.", "Clover, Trey", "Diamond, Cater", "Macala, Sophia Issabel C.", "Maranan, Kaitlin Pia G.", "Spade, Deuce", "Trappola, Ace"],
 	"Octavinelle": ["Ashengrotto, Azul (Leader)", "Estabillo, Carl Jaden M.", "Leech, Floyd", "Leech, Jade", "Lusica, Alyza Kate O.", "Musor, Hanna Yasmin M.", "Mito, Yuuta", "Razonable, Matt Sky L."],
